@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/cards-react-example/static/js/main.3323350c.chunk.js",
+    "main.js.map": "/cards-react-example/static/js/main.3323350c.chunk.js.map",
+    "runtime-main.js": "/cards-react-example/static/js/runtime-main.f94b835a.js",
+    "runtime-main.js.map": "/cards-react-example/static/js/runtime-main.f94b835a.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/cards-react-example/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.9583643f.chunk.js": "/cards-react-example/static/js/2.9583643f.chunk.js",
+    "static/js/2.9583643f.chunk.js.map": "/cards-react-example/static/js/2.9583643f.chunk.js.map",
+    "index.html": "/cards-react-example/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/cards-react-example/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.9583643f.chunk.js.LICENSE.txt": "/cards-react-example/static/js/2.9583643f.chunk.js.LICENSE.txt",
+    "static/media/img (1).fa99b926.jpg": "/cards-react-example/static/media/img (1).fa99b926.jpg",
+    "static/media/img (2).1ee6160e.jpg": "/cards-react-example/static/media/img (2).1ee6160e.jpg",
+    "static/media/img (3).465eceb8.jpg": "/cards-react-example/static/media/img (3).465eceb8.jpg",
+    "static/media/img (4).c268acdf.jpg": "/cards-react-example/static/media/img (4).c268acdf.jpg",
+    "static/media/img (5).1bf30b36.jpg": "/cards-react-example/static/media/img (5).1bf30b36.jpg",
+    "static/media/img (6).54a799a8.jpg": "/cards-react-example/static/media/img (6).54a799a8.jpg",
+    "static/media/img (7).1e0da16f.jpg": "/cards-react-example/static/media/img (7).1e0da16f.jpg",
+    "static/media/img (8).d9de5041.jpg": "/cards-react-example/static/media/img (8).d9de5041.jpg",
+    "static/media/img (9).ef080f8b.jpg": "/cards-react-example/static/media/img (9).ef080f8b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f94b835a.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.9583643f.chunk.js",
+    "static/js/main.3323350c.chunk.js"
+  ]
+}
