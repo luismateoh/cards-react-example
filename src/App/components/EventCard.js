@@ -1,3 +1,4 @@
+import React from 'react';
 import {Badge, Button, Card} from "react-bootstrap";
 
 export default function EventCard(

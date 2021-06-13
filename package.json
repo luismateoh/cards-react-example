@@ -1,4 +1,5 @@
 {
+  "homepage": "https://luismateoh.github.io/cards-react-example",
   "name": "nfr-ads",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +21,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "serve": "serve -s build -l 3004"
+    "serve": "serve -s build -l 3004",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": [
@@ -39,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.0"
   }
 }
